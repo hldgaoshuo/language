@@ -1,0 +1,6 @@
+.idea
+.vscode
+__pycache__
+venv
+Pipfile
+Pipfile.lock
